@@ -38,7 +38,7 @@ The layout is designed for "desktop," so some elements may appear differently on
 Submit the completed Challenge for review by the instructional staff. Ensure that all acceptance criteria are met and that the codebase follows accessibility standards.
 
 
-## Improvements done HTML and CSS code to meet the Acceptance Criteria
+## Improvements made on HTML and CSS code to meet the Acceptance Criteria
 
 ## HTML:
  
