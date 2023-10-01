@@ -66,5 +66,8 @@ Submit the completed Challenge for review by the instructional staff. Ensure tha
  - Improve the overall interface apperance by adding some extra features.
 
 ## Link to deployed application
- https://stas-cell-max.github.io/module-1-challenge/ 
+https://stas-cell-max.github.io/module-1-challenge-1/
+
+![stas-cell-max github io_module-1-challenge-1](https://github.com/Stas-Cell-Max/module-1-challenge-1/assets/137020431/ebb4ab26-d99f-47d9-bbc4-b376490b1d56)
+
  
