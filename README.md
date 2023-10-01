@@ -1,16 +1,16 @@
 # HTML CSS Git Challenge: Code Refactor
 
-## Overview
+### Overview
 
 This challenge involves refactoring an existing website to make it more accessible. Accessibility is crucial to ensure that people with disabilities can access a website using assistive technologies such as screen readers and braille keyboards. Additionally, an accessible website can improve search engine rankings and reduce the risk of legal issues related to accessibility.
 
-## User Story
+### User Story
 
 **AS A** marketing agency  
 **I WANT** a codebase that follows accessibility standards  
 **SO THAT** our own site is optimized for search engines  
 
-## Acceptance Criteria
+###Acceptance Criteria
 
 To meet the project's scope, the following criteria must be satisfied:
 
@@ -38,7 +38,7 @@ The layout is designed for "desktop," so some elements may appear differently on
 Submit the completed Challenge for review by the instructional staff. Ensure that all acceptance criteria are met and that the codebase follows accessibility standards.
 
 
-Improvements done HTML and CSS code to meet the Acceptance Criteria
+## Improvements done HTML and CSS code to meet the Acceptance Criteria
 
 ## HTML:
  
