@@ -64,4 +64,7 @@ Submit the completed Challenge for review by the instructional staff. Ensure tha
  - Adjust and match the size and lineup images Within the Main Content Section
  - Add background colour to the footer section and match it to the header
  - Improve the overall interface apperance by adding some extra features.
+
+## Link to deployed application
+ https://stas-cell-max.github.io/module-1-challenge/ 
  
